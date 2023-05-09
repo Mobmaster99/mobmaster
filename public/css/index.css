@@ -132,6 +132,7 @@ input::placeholder {
     background: red;
 }
 
+
 .lesson-three-task-twelve li::before {
     content: '➤';
 }
